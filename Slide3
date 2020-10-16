@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.6.0" />
+    <meta charset="utf-8" />
+    <title>Erehwon Guest House: Slide 3</title>
+    <meta name="keywords" content="Erehwon Guest House, East Coast Breaks, competitive Prices, Family Business,
+	Bed and Breakfast, Bed &amp; Breakfast, Contact Erehwon Guest House" />
+    <meta name="description" content="Erehwon Guest House is your home from home place to 
+    stay on the East Coast, with commanding sea views and providing access to the best 
+    locations in the region. There are special rates for short breaks and weekenders." />
+    <meta name="author" content="Colin Riddle" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+
+    <div class="heading"> <h1>Erehwon Guest House</h1></div>
+
+	<div class="subheading"> <h2>Bed &amp; Breakfast</h2></div>
+	
+	<nav class="navigation">
+	<p>
+	<a href="home.html">Home |</a> 
+	<a href="slide.html">Picture Gallery |</a> 
+	<a href="map.html"> Map |</a> 
+	<a href="links.html"> Useful Links |</a> 
+	<a href="prices.html"> Prices |</a> 
+	<a href="contact.html"> Contact us </a>
+	</p>
+	</nav>
+	
+	<div class="slide">
+	<img src="images/slide3.jpg" alt="third slide image of three" />
+	</div>
+	
+	<div class="slide">
+    <img src="images/slide3.jpg" alt="third slide image of three" />
+    </div>
+    <div class="slidetitle">
+    <p>Slideshow image 3 of 3</p>
+    </div>
+	
+	<div class="slideprevious">
+	<p>&lt; Previous </p>
+	</div>
+	<div class="slidenext">
+	<p>Next &gt; </p>
+	</div>
+	<div class="slideprevious"><p><a href="slide2.html">&lt; Previous</a></p>
+	</div>
+
+	<div class="slidenext"><p><a href="slide.html">Next &gt; </a></p>
+	</div> 
+
+	
+	<footer class ="footer">Copyright, Privacy Policy and other site details.</footer>
+
+	
+  </body>
+</html>
